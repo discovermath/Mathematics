@@ -10,4 +10,4 @@ Also, if you find any errors in my proofs, please report back to me. It will imp
 
 
 
-I also have a physics repository like this which you can find here: 
+I also have a physics repository like this which you can find here: github.com/sakshamsethi123/Physics.
