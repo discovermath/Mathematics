@@ -4,4 +4,3 @@ I do not know if one or more of these are already well known. If you are aware o
 
 Also, if you find any errors in my proofs, please report back to me. It will improve my proofing skills.
 
-I also have a physics repository like this which you can find here: github.com/sakshamsethi123/Physics.
